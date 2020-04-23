@@ -1,0 +1,8 @@
+.Avatar img {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.Avatar .roundAvatar {
+    border-radius: 50%;
+}

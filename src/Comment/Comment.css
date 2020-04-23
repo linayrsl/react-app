@@ -1,0 +1,7 @@
+.Comment {
+    margin-top: 50px;
+}
+
+.Comment:last-child {
+    margin-bottom: 20px;
+}
